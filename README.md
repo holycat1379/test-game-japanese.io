@@ -1,0 +1,1 @@
+# test-game-japanese.io
