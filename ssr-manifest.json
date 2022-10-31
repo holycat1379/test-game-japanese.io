@@ -62,44 +62,44 @@
   "../../../__uno.css": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.36c8782d.js-unocss-hash.css": [],
+  "assets/app.581306e0.js-unocss-hash.css": [],
   "node_modules/.pnpm/workbox-window@6.5.3/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
-    "/assets/virtual_pwa-register.5acef10f.js"
+    "/test-game-japanese.io/assets/virtual_pwa-register.296ba1e3.js"
   ],
   "../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register.5acef10f.js"
+    "/test-game-japanese.io/assets/virtual_pwa-register.296ba1e3.js"
   ],
   "src/layouts/404.vue": [
-    "/assets/404.03d7d31b.js"
+    "/test-game-japanese.io/assets/404.f0d9de31.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.1a9ec9b6.js"
+    "/test-game-japanese.io/assets/home.58866555.js"
   ],
   "src/pages/about.md?vue&type=style&index=0&lang.css": [
-    "/assets/about.8d300551.js",
-    "/assets/about.4260db25.css"
+    "/test-game-japanese.io/assets/about.adfa62af.js",
+    "/test-game-japanese.io/assets/about.4260db25.css"
   ],
   "src/pages/about.md": [
-    "/assets/about.8d300551.js",
-    "/assets/about.4260db25.css"
+    "/test-game-japanese.io/assets/about.adfa62af.js",
+    "/test-game-japanese.io/assets/about.4260db25.css"
   ],
   "../../../@vite-plugin-pages/route-block": [
-    "/assets/route-block.89f12ae7.js"
+    "/test-game-japanese.io/assets/route-block.89f12ae7.js"
   ],
   "src/pages/README.md?vue&type=style&index=0&lang.css": [
-    "/assets/README.e023da9f.js",
-    "/assets/about.4260db25.css"
+    "/test-game-japanese.io/assets/README.c2a2e043.js",
+    "/test-game-japanese.io/assets/about.4260db25.css"
   ],
   "src/pages/README.md": [
-    "/assets/README.e023da9f.js",
-    "/assets/about.4260db25.css"
+    "/test-game-japanese.io/assets/README.c2a2e043.js",
+    "/test-game-japanese.io/assets/about.4260db25.css"
   ],
   "src/pages/recite/[id].vue?vue&type=style&index=0&scoped=true&lang.css": [
-    "/assets/_id_.6de6f5f5.js",
-    "/assets/_id_.b4ade76d.css"
+    "/test-game-japanese.io/assets/_id_.aa90bf81.js",
+    "/test-game-japanese.io/assets/_id_.b4ade76d.css"
   ],
   "src/pages/recite/[id].vue": [
-    "/assets/_id_.6de6f5f5.js",
-    "/assets/_id_.b4ade76d.css"
+    "/test-game-japanese.io/assets/_id_.aa90bf81.js",
+    "/test-game-japanese.io/assets/_id_.b4ade76d.css"
   ]
 }
